@@ -1,1 +1,1 @@
-# curso_ebac_frontend
+# Exercíos e Projetos do curso EBAC Profissão: Engenheiro Front-end
